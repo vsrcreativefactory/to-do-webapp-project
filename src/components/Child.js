@@ -1,7 +1,7 @@
 import React from 'react'
 
 function Child() {
-    const childStyle = {color:"green"}
+    const childStyle = {color:"red"}
     return (
     <div>
         <h3 style={childStyle}>Child component of Home</h3>
